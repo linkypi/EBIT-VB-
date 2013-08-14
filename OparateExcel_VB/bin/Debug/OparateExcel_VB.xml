@@ -1,0 +1,325 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OparateExcel_VB
+</name>
+</assembly>
+<members>
+<member name="P:OparateExcel_VB.ExcelArgument.ID">
+	<summary>
+ ID
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.SleepTimes">
+	<summary>
+ 线程睡眠时间
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.SeparateChars">
+	<summary>
+ 转为Char后的分隔符
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.FileIndex">
+	<summary>
+ 文件索引
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.PageAttr">
+	<summary>
+ 页面属性
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.RemoveSpace">
+	<summary>
+ 是否移除空格
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.SeparatePage">
+	<summary>
+ 是否分页
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.Separator">
+	<summary>
+ 分隔符
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ExcelArgument.SavePath">
+	<summary>
+ 保存路径
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.btnOpen_Click(System.Object,System.EventArgs)">
+	<summary>
+ 打开
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.btnScan_Click(System.Object,System.EventArgs)">
+	<summary>
+ 浏览
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.btnConvert_Click(System.Object,System.EventArgs)">
+	<summary>
+ 转换
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.Form1_Load(System.Object,System.EventArgs)">
+	<summary>
+ 窗体加载事件
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.移除RToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ 移除ListBox中的文件
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.LoadFile(System.String)">
+	<summary>
+ 加载文件
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.ShowProgress(System.Int32)">
+	<summary>
+ 显示进度
+ </summary>
+	<param name="val"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.ConvertFinished">
+	<summary>
+ 转换结束
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.ActiveControls">
+	<summary>
+ 激活控件
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.ClearExcelProcesses">
+	<summary>
+ 清楚所有未关闭的Excel进程
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.UpdateProcess(System.Int32)">
+	<summary>
+ 更新进度
+ </summary>
+	<param name="val"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.ValidateArg">
+	<summary>
+ 参数验证
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.Convert">
+	<summary>
+ 转换
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.Flash(System.Object)">
+	<summary>
+ 播放动画
+ </summary>
+	<param name="sender">控件名</param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.GetExcelArg">
+	<summary>
+ 获取Excel参数
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.FinishedOneFile">
+	<summary>
+ 已成功转换一个文件
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.UpdateFileCount">
+	<summary>
+ 更新已完成的文件数量
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.OpenRegistryPath(Microsoft.Win32.RegistryKey,System.String)">
+	<summary>
+ 根据注册表获取系统桌面路径
+ </summary>
+	<param name="root"></param>
+	<param name="s"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.CheckBox1_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ 选择分页
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.chkTab_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ 分隔符参数选择
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.SetCheck(System.Object)">
+	<summary>
+ 选择分隔符
+ </summary>
+	<param name="sender"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.chkSpace_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ 空格
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.FrmConvert.chkOther_CheckedChanged(System.Object,System.EventArgs)">
+	<summary>
+ 其他
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.PageAttribute.Cols">
+	<summary>
+ 每行的列数
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.PageAttribute.Rows">
+	<summary>
+ 每页的行数
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.PageAttribute.ColumnAttrList">
+	<summary>
+ 列的属性集合
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.FileModel.Name">
+	<summary>
+ 文件名
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.FileModel.ListStr">
+	<summary>
+ 文件字符数组
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.GenerateExcel">
+	<summary>
+ 生成Excel
+<param name="fileName">文件名</param>
+		<param name="direName">文件路径</param>
+	</summary>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.UpdatePro">
+	<summary>
+  更新进度
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.Finish">
+	<summary>
+ 生成结束
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.WriteSinglePage">
+	<summary>
+ 单页写入
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.WirteMultiPages(System.Int32,System.Int32@)">
+	<summary>
+ 写入数据（分页）
+ </summary>
+	<param name="curPage"></param>
+	<param name="index"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelGenerator.SetExcelArg(Microsoft.Office.Interop.Excel.Worksheet@,System.String)">
+	<summary>
+ 设置Excel参数
+ </summary>
+	<param name="worksheet"></param>
+	<param name="endRange"></param>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.Tool.Chr(System.Int32)">
+	<summary>
+ASCII码转字符串（转换为Excel列的形式：A/B/C...AA/AB/AC...BA/BB/......）
+</summary>
+	<param name="asciiCode">最大数字255（即Excel最末列IV）</param>
+	<returns></returns>
+</member><member name="M:OparateExcel_VB.ColumnAttribute.#ctor(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="name">列名</param>
+	<param name="dt">数据类型</param>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ColumnAttribute.Name">
+	<summary>
+ 列名
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:OparateExcel_VB.ColumnAttribute.DataType">
+	<summary>
+ 数据类型
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelConverter.StartConvert">
+	<summary>
+ 开始转换
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelConverter.UpdateProgress">
+	<summary>
+ 更新转换进度
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OparateExcel_VB.ExcelConverter.Convert">
+	<summary>
+ 转换  转换缓冲区为2个
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

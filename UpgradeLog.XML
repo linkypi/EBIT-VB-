@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OparateExcel_VB">
+</Property><Property Name="解决方案文件" Value="I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\OparateExcel_VB.sln">
+</Property><Property Name="用户选项文件" Value="I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\OparateExcel_VB.suo">
+</Property><Property Name="Date" Value="2013年6月23日">
+</Property><Property Name="Time" Value="22:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OparateExcel_VB.sln" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="OparateExcel_VB.suo" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB.suo">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\OparateExcel_VB.vbproj" Description="项目文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\OparateExcel_VB.vbproj">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\OparateExcel_VB.vbproj.user" Description="项目用户文件成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\OparateExcel_VB.vbproj.user">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Common\Tool.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Common\Tool.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmPaging.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmPaging.Designer.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmPaging.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmPaging.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Model\ColumnAttribute.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Model\ColumnAttribute.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Model\ExcelArgument.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Model\ExcelArgument.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Model\FileModel.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Model\FileModel.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Delegate\DelegateCom.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Delegate\DelegateCom.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Converter\ExcelConverter.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Converter\ExcelConverter.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Converter\ExcelGenerator.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Converter\ExcelGenerator.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmConvert.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmConvert.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmConvert.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmConvert.Designer.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Model\PageAttribute.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Model\PageAttribute.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\AssemblyInfo.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Application.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Resources.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Settings.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Application.myapp" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Settings.settings" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Resources\1_128.ico" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Resources\1_128.ico">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\Resources\3.ico" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\Resources\3.ico">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmConvert.resx" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmConvert.resx">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\FrmPaging.resx" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\FrmPaging.resx">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\licenses.licx" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\licenses.licx">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\My Project\Resources.resx" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\OparateExcel_VB\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\OparateExcel_VB.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="OparateExcel_VB" Source="OparateExcel_VB\OparateExcel_VB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExcelConverterSetup.vdproj" Source="ExcelConverterSetup\ExcelConverterSetup.vdproj" Description="项目文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\ExcelConverterSetup\ExcelConverterSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\UnInstallation.vbproj" Description="项目文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\UnInstallation.vbproj">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\Module1.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\Module1.vb">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\AssemblyInfo.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Application.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Resources.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Settings.Designer.vb" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Application.myapp" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Settings.settings" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\My Project\Resources.resx" Description="文件已成功备份为 I:\MulLanguage\C#\C#--李赞\4_Excel\OparateExcel_VB\Backup\UnInstallation\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\UnInstallation.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UnInstallation" Source="UnInstallation\UnInstallation.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OparateExcel_VB.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="OparateExcel_VB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OparateExcel_VB" Source="OparateExcel_VB\OparateExcel_VB.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="UnInstallation" Source="UnInstallation\UnInstallation.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
